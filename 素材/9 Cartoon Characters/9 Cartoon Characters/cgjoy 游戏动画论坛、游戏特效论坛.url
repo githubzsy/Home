@@ -1,0 +1,8 @@
+[DEFAULT]
+BASEURL=http://www.cgjoy.com/forum.php
+[DOC_connectlike]
+BASEURL=http://www.cgjoy.com/api/connect/like.php
+ORIGURL=api/connect/like.php
+[InternetShortcut]
+URL=http://www.cgjoy.com/forum.php
+Modified=E06A5BC47E23CE01D9
